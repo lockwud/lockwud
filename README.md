@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lockwud" alt="lockwud" /></a> </p>
 
-- 👯 I’m looking to collaborate on **collaborate on project**
+- 👯 I’m looking to collaborate on **project and open source **
 
 - 💬 Ask me about **Express js, nest js, fastAPi, programming languages**
 
